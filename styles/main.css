@@ -155,9 +155,28 @@ header nav button {
 	width: fit-content;
 }
 
-	.award img {
-		width: clamp(2.5rem, 10vw, 5rem);
-	}
+.awardGuru {
+	background-color: #424242;
+	position: absolute;
+	padding: clamp(0.5rem, 1vw, 0.8rem);
+	left: 6%;
+	bottom: 0;
+	border-radius: 0.4rem;
+	display: flex;
+	z-index: 4;
+	transform: translateY(calc(100% + 1.2rem));
+	border: 0.1rem solid var(--dark);
+	box-shadow: 0 0.1rem 0 0.1rem var(--dark);
+	width: fit-content;
+}
+
+.award img {
+	width: clamp(2.5rem, 10vw, 5rem);
+}
+
+.awardGuru img {
+	width: clamp(5rem, 15vw, 10rem);
+}
 
 .modal {
 	position: absolute;
