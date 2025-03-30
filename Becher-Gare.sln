@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Becher-Gare", ".", "{D85EDA20-4AC9-44FF-982B-47A316F0A23B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61407"
+		Debug.AspNetCompiler.PhysicalPath = "D:\GitHub\Becher-Gare\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61407\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61407"
+		Release.AspNetCompiler.PhysicalPath = "D:\GitHub\Becher-Gare\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61407\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61407"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D85EDA20-4AC9-44FF-982B-47A316F0A23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85EDA20-4AC9-44FF-982B-47A316F0A23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E56CCD3A-B29B-4F3F-BE7C-E9C966985C07}
+	EndGlobalSection
+EndGlobal
